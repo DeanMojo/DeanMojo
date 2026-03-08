@@ -36,8 +36,8 @@
 <h3 align="center">🤝Connect with Me🤝</h3>
 <div align="center">
 
-![X (formerly Twitter) URL](https://img.shields.io/twitter/https://x.com/degen_dean)
-[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://bitlie.derikn.com/instagram)
+![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Fdegen_dean)
+
 
 ![](/Images/horizontal-divider-gradient.gif)
 
