@@ -32,12 +32,20 @@
 
 - 📫 How to reach me **deanadu23@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/degen_dean" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="degen_dean" height="30" width="40" /></a>
-</p>
+<!-- Connect with me -->
+<h3 align="center">🤝Connect with Me🤝</h3>
+<div align="center">
+
+![X (formerly Twitter) URL](https://img.shields.io/twitter/https://x.com/degen_dean)
+[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://bitlie.derikn.com/instagram)
 
 ![](/Images/horizontal-divider-gradient.gif)
+
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h3 style="display: inline-block">🧑‍💻Frequently Used Tech🧑‍💻</h3></summary>
+  </ul>
+</div>
 
 <!-- use https://skillicons-picker.derikn.com -->
 <p align="center">
