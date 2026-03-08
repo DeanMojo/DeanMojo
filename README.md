@@ -4,9 +4,9 @@
 
 <div align="center">
   
-![Banner](Images/Images/banner.png)
+![Banner](Images/banner.png)
 
-![](https://komarev.com/ghpvc/?username=Deri-Kurniawan) [![wakatime](https://wakatime.com/badge/user/22520ecf-cee6-4d59-a21f-b5d7f4f8e491.svg)](https://wakatime.com/@22520ecf-cee6-4d59-a21f-b5d7f4f8e491) ![Followers](https://img.shields.io/github/followers/DeanMojo?label=Followers) ![Stars](https://img.shields.io/github/stars/DeanMojo?label=Stars)
+![][![Followers](https://img.shields.io/github/followers/DeanMojo?label=Followers) ![Stars](https://img.shields.io/github/stars/DeanMojo?label=Stars)
 
 </div>
 
