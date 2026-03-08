@@ -58,3 +58,9 @@
 
 <!--x axis divider-->
 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&center=true&vCenter=true&lines=%F0%9F%91%8B+Thanks!+For++Visiting+My+Profile! alt="Typing SVG" />
+  </a>
+</p>
+
