@@ -36,7 +36,7 @@
 <h3 align="center">🤝Connect with Me🤝</h3>
 <div align="center">
 
-https://img.shields.io/twitter/follow/degen_dean
+![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/degen_dean)
 
 
 
