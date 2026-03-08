@@ -37,6 +37,7 @@
 <div align="center">
 
 ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/degen_dean)
+[![image](https://img.shields.io/badge/Twitter-E4405F?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/degen_dean)
 
 
 
