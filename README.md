@@ -36,7 +36,8 @@
 <h3 align="center">🤝Connect with Me🤝</h3>
 <div align="center">
 
-![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Fdegen_dean)
+https://img.shields.io/twitter/follow/degen_dean
+
 
 
 ![](/Images/horizontal-divider-gradient.gif)
