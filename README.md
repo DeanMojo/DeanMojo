@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dean Adu-Harrison</h1>
-<h3 align="center">AI-assisted developer building experimental web apps and developer tools.</h3>
+<h3 align="center">A Full-stack and AI-assisted developer building experimental web apps and developer tools.</h3>
 
 - 🔭 I’m currently working on [Qriterion](https://qriterion-landing-page.vercel.app/)
 
