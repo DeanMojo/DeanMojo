@@ -36,8 +36,8 @@
 <h3 align="center">🤝Connect with Me🤝</h3>
 <div align="center">
 
-![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/degen_dean)
-[![image](https://img.shields.io/badge/Twitter-E4405F?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/degen_dean)
+[![image](https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/degen_dean)
+[![image](https://img.shields.io/badge/Mail-E4405F?style=for-the-badge&logo=mail&logoColor=white)](deanadu23@gmail.com)
 
 
 
