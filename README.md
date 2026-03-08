@@ -6,13 +6,13 @@
   
 ![Banner](Images/banner.png)
 
-![][![Followers](https://img.shields.io/github/followers/DeanMojo?label=Followers) ![Stars](https://img.shields.io/github/stars/DeanMojo?label=Stars)
+[Followers](https://img.shields.io/github/followers/DeanMojo?label=Followers) ![Stars](https://img.shields.io/github/stars/DeanMojo?label=Stars)
 
 </div>
 
 <!--x axis divider-->
 
-
+![](/Images/horizontal-divider-gradient.gif)
 
 
 <h1 align="center">Hi 👋, I'm Dean Adu-Harrison</h1>
