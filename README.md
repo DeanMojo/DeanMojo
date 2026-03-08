@@ -1,3 +1,20 @@
+<!--x axis divider-->
+
+![](/Images/horizontal-divider-gradient.gif)
+
+<div align="center">
+  
+![Banner](Images/Images/banner.png)
+
+![](https://komarev.com/ghpvc/?username=Deri-Kurniawan) [![wakatime](https://wakatime.com/badge/user/22520ecf-cee6-4d59-a21f-b5d7f4f8e491.svg)](https://wakatime.com/@22520ecf-cee6-4d59-a21f-b5d7f4f8e491) ![Followers](https://img.shields.io/github/followers/DeanMojo?label=Followers) ![Stars](https://img.shields.io/github/stars/DeanMojo?label=Stars)
+
+</div>
+
+<!--x axis divider-->
+
+
+
+
 <h1 align="center">Hi 👋, I'm Dean Adu-Harrison</h1>
 <h3 align="center">A Full-stack and AI-assisted developer building experimental web apps and developer tools.</h3>
 
