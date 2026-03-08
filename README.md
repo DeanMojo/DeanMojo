@@ -9,11 +9,7 @@
 
 - 🔭 I’m currently working on [PolySmith](https://polysmith.vercel.app/)
 
-## 🧠 Interests
-
-AI-assisted development  
-Creative data visualization  
-Developer productivity tools
+- 🧠 Interests - AI-assisted development  •  Creative data visualization  •  Developer productivity tools
 
 - 👨‍💻 All of my projects are available at [https://github.com/DeanMojo](https://github.com/DeanMojo)
 
