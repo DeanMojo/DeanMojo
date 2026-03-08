@@ -6,7 +6,7 @@
   
 ![Banner](Images/banner.png)
 
-[Followers](https://img.shields.io/github/followers/DeanMojo?label=Followers) ![Stars](https://img.shields.io/github/stars/DeanMojo?label=Stars)
+![Followers](https://img.shields.io/github/followers/DeanMojo?label=Followers) ![Stars](https://img.shields.io/github/stars/DeanMojo?label=Stars)
 
 </div>
 
