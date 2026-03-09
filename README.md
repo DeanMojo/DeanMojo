@@ -18,19 +18,26 @@
 <h1 align="center">Hi 👋, I'm Dean Adu-Harrison</h1>
 <h3 align="center">A Full-stack and AI-assisted developer building experimental web apps and developer tools.</h3>
 
-- 🔭 I’m currently working on [Qriterion](https://qriterion-landing-page.vercel.app/)
+![](/assets/images/horizontal-divider-gradient.gif)
 
-- Also skilled in **Microsoft PowerApps , Power Automate**
+<h3 align="center">✨My Portfolio Website✨</h3>
 
-- 🔭 I’m currently working on [DataTales](https://datatales-mvp.lovable.app/)
+<a href="https://dean-portfolio.lovable.app" alt="Dean Adu-Harrison Portfolio">
+<img src="Images/Portfolio.png" align="right">
+</a>
 
-- 🔭 I’m currently working on [PolySmith](https://polysmith.vercel.app/)
+<!--x axis divider-->
 
-- 🧠 Interests - AI-assisted development  •  Creative data visualization  •  Developer productivity tools
+![](/assets/images/horizontal-divider-gradient.gif)
+  
 
-- 👨‍💻 All of my projects are available at [https://github.com/DeanMojo](https://github.com/DeanMojo)
+- 🧠 Interests - Full-stack development  •  AI-Powered Apps  • Data visualization  •  Developer productivity tools
+
+- 👨‍💻 All of my projects are available at [https://github.com/DeanMojo](https://github.com/DeanMojo) / https://dean-portfolio.lovable.app
 
 - 📫 How to reach me **deanadu23@gmail.com**
+
+  ![](/assets/images/horizontal-divider-gradient.gif)
 
 <!-- Connect with me -->
 <h3 align="center">🤝Connect with Me🤝</h3>
