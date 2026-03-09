@@ -30,11 +30,11 @@
 
 ![](/assets/images/horizontal-divider-gradient.gif)
   
-
+<br>
 
 - 🧠 Interests - Full-stack development  •  AI-Powered Apps  • Data visualization  •  Developer productivity tools
 
-- 👨‍💻 All of my projects are available at [https://github.com/DeanMojo](https://github.com/DeanMojo) / https://dean-portfolio.lovable.app
+- 👨‍💻 All of my projects are available at [https://github.com/DeanMojo](https://github.com/DeanMojo)
 
 - 📫 How to reach me **deanadu23@gmail.com**
 
