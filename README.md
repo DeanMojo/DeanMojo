@@ -22,20 +22,20 @@
 
 <h3 align="center">✨My Portfolio Website✨</h3>
 
-<a href="https://dean-adu.lovable.app" alt="Dean Adu-Harrison Portfolio">
-<img src="Images/Portfolio.png" align="right">
+<a href="https://dean-harrison.lovable.app" alt="Dean Adu-Harrison Portfolio">
+<img src="Images/site.png" align="right">
 </a>
 
 <!--x axis divider-->
 
-![](/assets/images/horizontal-divider-gradient.gif)
+![](/Images/horizontal-divider-gradient.gif)
   
-<h3 align="left">About</h3>
+<h3 align="left">👋About👋</h3>
 <p align="left"> I love exploring and building AI-driven apps, data visualization and developer productivity tools. I continue to learn and grow every day.</p>
 
 - 👨‍💻 All of my projects are available at [My Github Profile](https://github.com/DeanMojo?tab=repositories)
 
-- 👨‍💻 You can check out my personal projects here  [My Portfolio](https://github.com/DeanMojo?tab=repositories)
+- 👨‍💻 You can check out my personal projects here  [My Portfolio](https://dean-harrison.lovable.app)
 
 - 📫 How to reach me **deanadu23@gmail.com**
 
