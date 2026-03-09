@@ -33,9 +33,9 @@
 <h3 align="left">About</h3>
 <p align="left"> I love exploring and building AI-driven apps, data visualization and developer productivity tools. I continue to learn and grow every day.</p>
 
-- 👨‍💻 All of my projects are available at [Github S](https://github.com/DeanMojo?tab=repositories)
+- 👨‍💻 All of my projects are available at [My Github Profile](https://github.com/DeanMojo?tab=repositories)
 
-- 👨‍💻 You can check out my personal projects here  [Deans's portfolio](https://github.com/DeanMojo?tab=repositories)
+- 👨‍💻 You can check out my personal projects here  [My Portfolio](https://github.com/DeanMojo?tab=repositories)
 
 - 📫 How to reach me **deanadu23@gmail.com**
 
