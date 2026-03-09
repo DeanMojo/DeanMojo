@@ -22,7 +22,7 @@
 
 <h3 align="center">✨My Portfolio Website✨</h3>
 
-<a href="https://dean-portfolio.lovable.app" alt="Dean Adu-Harrison Portfolio">
+<a href="https://dean-adu.lovable.app" alt="Dean Adu-Harrison Portfolio">
 <img src="Images/Portfolio.png" align="right">
 </a>
 
@@ -30,7 +30,7 @@
 
 ![](/assets/images/horizontal-divider-gradient.gif)
   
-<br>
+
 
 - 🧠 Interests - Full-stack development  •  AI-Powered Apps  • Data visualization  •  Developer productivity tools
 
