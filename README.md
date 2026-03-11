@@ -6,6 +6,7 @@
   
 ![Banner](Images/banner.png)
 
+<img src="https://komarev.com/ghpvc/?username=deanmojo&label=Profile%20views&color=0e75b6&style=flat" alt="Dean Adu-Harrison" />
 ![Followers](https://img.shields.io/github/followers/DeanMojo?label=Followers) ![Stars](https://img.shields.io/github/stars/DeanMojo?label=Stars)
 
 </div>
